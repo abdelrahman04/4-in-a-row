@@ -1,0 +1,3 @@
+C:/Users/abdel/OneDrive/Desktop/problem solving/Clionss projects/GAME1/cmake-build-debug/CMakeFiles/GAME1.dir
+C:/Users/abdel/OneDrive/Desktop/problem solving/Clionss projects/GAME1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdel/OneDrive/Desktop/problem solving/Clionss projects/GAME1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
